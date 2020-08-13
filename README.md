@@ -1,5 +1,9 @@
 ### Hi there 👋
+Hi there! 
 
+Get ready to be blown away. I'm an inspiring self-taught web developer eager to learn new languages and design interactive responsive websites.
+
+I'm currently learning NodeJS, Express, MongoDB, React, JSON, SQL and NoSQL.
 <!--
 **askchu/askchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
