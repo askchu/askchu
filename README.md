@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm an inspiring self-taught web developer eager to learn new languages and design responsive interactive websites.
+
 Follow my journey as I learn to code and become a developer!
 
 I'm currently learning NodeJS, Express, MongoDB, React, Bootstrap, SQL and NoSQL.
