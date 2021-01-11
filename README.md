@@ -7,9 +7,9 @@ I'm currently learning NodeJS, Express, MongoDB, React, Bootstrap, SQL and NoSQL
 
 My current technical projects include:
    1) Hangry App (Web Application)
-       -> Allow users to search for restaurants and the option for the app to choose for them if he/she still can't decide.
-       -> Includes a map display of the restaurants fetched and general location of the user's address.
-       -> User's are able to save specific restaurants into their favourites list to narrow down their search. 
+       - Allow users to search for restaurants and the option for the app to choose for them if he/she still can't decide.
+       - Includes a map display of the restaurants fetched and general location of the user's address.
+       - User's are able to save specific restaurants into their favourites list to narrow down their search. 
  
 <!--
 **askchu/askchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
