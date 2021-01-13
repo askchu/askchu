@@ -6,7 +6,7 @@ Follow my journey as I learn to code and become a developer!
 
 I'm currently learning NodeJS, Express, MongoDB, React, Bootstrap, SQL and NoSQL.
 
-My current technical projects include:
+### Current technical projects include:
    1) Hangry App (Web Application)
        - Allow users to search for restaurants and the option for the app to choose for them if he/she still can't decide.
        - Includes a map display of the restaurants fetched and general location of the user's address.
