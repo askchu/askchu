@@ -19,9 +19,9 @@ Follow my journey as I learn to code and become a software developer!
        - Uses algorithmic optimization to sort and render the data.
  
  
- ### 📫 Get in touch with me !
-    Email: alex.chu16@hotmail.com
-    Linkedin: https://www.linkedin.com/in/alex-c-540155122/
+ ### 📫 Get in touch with me!
+ ### Email: alex.chu16@hotmail.com
+ ### Linkedin: https://www.linkedin.com/in/alex-c-540155122/
    
  
  
