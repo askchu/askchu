@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an inspiring self-taught web developer with a passion to learn new languages and design responsive interactive websites with a clean and maintable code.
+I'm an aspiring self-taught web developer with a passion to learn new languages and design responsive interactive websites with a clean and maintable code.
 
 Follow my journey as I learn to code and become a software developer!
 
@@ -17,6 +17,10 @@ Follow my journey as I learn to code and become a software developer!
        - Includes a map display of the restaurants fetched by the restaurants geo location and general location of user's address.
        - User's are able to save specific restaurants into their favourites list.
        - Uses algorithmic optimization to sort and render the data.
+   2) Adventures with Chu (Web/Mobile Application)
+       - Work in progress (Using React & Firebase)
+       - Blogging web platform
+       - CRUD functionality
  
  
  ### 📫 Get in touch with me!
