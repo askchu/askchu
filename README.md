@@ -9,6 +9,8 @@ Follow my journey as I learn to code and become a software developer!
    - NodeJS 
    - Express 
    - MongoDB 
+   - Firebase
+   - GraphQL
    - SQL & NoSQL.
 
 ### Current technical projects include:
