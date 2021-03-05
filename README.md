@@ -23,6 +23,7 @@ Follow my journey as I learn to code and become a software developer!
        - Work in progress (Using React & Firebase)
        - Blogging web platform
        - CRUD functionality
+       - Firebase authentication
  
  
  ### 📫 Get in touch with me!
