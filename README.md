@@ -20,7 +20,7 @@ Follow my journey as I learn to code and become a software developer!
        - User's are able to save specific restaurants into their favourites list.
        - Uses algorithmic optimization to sort and render the data.
    2) Adventures with Chu (Web/Mobile Application)
-       - Work in progress (Using React & Firebase)
+       - Complete - https://adventures-with-chu.web.app/ 
        - Blogging web platform
        - CRUD functionality
        - Firebase authentication
