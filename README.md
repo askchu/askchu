@@ -24,6 +24,9 @@ Follow my journey as I learn to code and become a software developer!
        - Blogging web platform
        - CRUD functionality
        - Firebase authentication
+   3) Disney Clone Website (Web/Mobile Responsive)
+       - Work in progress
+       - Front-end only with HTML, CSS and JavaScript 
  
  
  ### 📫 Get in touch with me!
