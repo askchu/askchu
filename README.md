@@ -25,7 +25,7 @@ Follow my journey as I learn to code and become a software developer!
        - CRUD functionality
        - Firebase authentication
    3) Disney Clone Website (Web/Mobile Responsive)
-       - Work in progress
+       - Complete - https://askchu.github.io/disney-clone/
        - Front-end only with HTML, CSS and JavaScript 
  
  
