@@ -26,7 +26,10 @@ Follow my journey as I learn to code and become a software developer!
        - Firebase authentication
    3) Disney Clone Website (Web/Mobile Responsive)
        - Complete - https://askchu.github.io/disney-clone/
-       - Front-end only with HTML, CSS and JavaScript 
+       - Front-end only with HTML, CSS and JavaScript
+   4) Lawn Mowing Services Product Page (Web/Mobile Responsive)
+       - COmplete - https://askchu.github.io/lawnmow-product-page/
+       - Front-end only with HTML, CSS and JavaScript
  
  
  ### 📫 Get in touch with me!
