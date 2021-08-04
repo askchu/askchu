@@ -29,7 +29,7 @@ Follow my journey as I learn to code and become a software developer!
        - Complete - https://askchu.github.io/disney-clone/
        - Front-end only with HTML, CSS and JavaScript
    4) Lawn Mowing Services Product Page (Web/Mobile Responsive)
-       - COmplete - https://askchu.github.io/lawnmow-product-page/
+       - Complete - https://askchu.github.io/lawnmow-product-page/
        - Front-end only with HTML, CSS and JavaScript
  
  
