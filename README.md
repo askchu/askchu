@@ -15,6 +15,7 @@ Follow my journey as I learn to code and become a software developer!
 
 ### Current technical projects include:
    1) Hangry App (Web Application)
+       - Complete - https://hangry-web.herokuapp.com/
        - Allow users to search for restaurants with the option for the app to choose a restaurant.
        - Includes a map display of the restaurants fetched by the restaurants geo location and general location of user's address.
        - User's are able to save specific restaurants into their favourites list.
