@@ -4,6 +4,9 @@ I'm an aspiring self-taught web developer with a passion to learn new languages 
 
 Follow my journey as I learn to code and become a software developer!
 
+### Portfolio Website
+   - https://askchu.com/
+
 ### I'm currently learning: 
    - React
    - NodeJS 
